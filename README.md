@@ -1,6 +1,3 @@
-# Equipe 03
-
-
 # Tutorial para o Hack@Cloud Oracle
 
 Sabemos quem nem todas as pessoas possuem conhecimentos na área de desenvolvimento e por isso trouxemos aqui nesse Readme os passos para executar TODAS as tarefas relacionadas a aplicação front-end.
